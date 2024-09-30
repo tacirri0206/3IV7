@@ -1,4 +1,4 @@
-Proceso Censo_sanchez_bravo_sebastian_3iv7
+Algoritmo  Censo_sanchez_bravo_sebastian_3iv7
     Definir nump, numA, nac, fall Como Entero
     Definir pervi, EJ, EV, et Como Entero
     Definir Añocons Como Entero
@@ -61,4 +61,4 @@ Proceso Censo_sanchez_bravo_sebastian_3iv7
             Escribir "Edad de la persona más anciana: ", EV
         FinSi
     FinPara
-FinProceso
+FinAlgoritmo
