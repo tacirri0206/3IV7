@@ -58,7 +58,7 @@ Algoritmo  Censo_sanchez_bravo_sebastian_3iv7
         SiNo
             Escribir "Personas vivas: ", pervi
             Escribir "Edad de la persona más joven: ", EJ
-            Escribir "Edad de la persona más anciana: ", EV
+            Escribir "Edad de la persona más vieja: ", EV
         FinSi
     FinPara
 FinAlgoritmo
