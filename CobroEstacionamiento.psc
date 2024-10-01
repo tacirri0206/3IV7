@@ -47,6 +47,7 @@ Algoritmo gestio
             Escribir "Segundos no válidos, intente nuevamente."
         FinSi
     Hasta Que segundoSalida >= 0 y segundoSalida <= 59
+	
     tiempoHoras = horaSalida - horaEntrada
     tiempoMinutos = minutoSalida - minutoEntrada
     tiempoSegundos = segundoSalida - segundoEntrada
