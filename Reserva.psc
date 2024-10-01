@@ -14,7 +14,7 @@ Algoritmo Reserva
         Escribir "1. Hacer una nueva reserva"
         Escribir "2. Cancelar una reserva "
         Escribir "3. Verificar habitaciones libres"
-        Escribir "4. Ver porcentaje de ocupación"
+        Escribir "4. Ver porcentaje de ocupacvión"
         Escribir "5. Salir"
         Escribir "Seleccione una opción:"
         Leer seleccion
