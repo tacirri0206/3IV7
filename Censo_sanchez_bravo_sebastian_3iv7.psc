@@ -6,6 +6,7 @@ Algoritmo  Censo_sanchez_bravo_sebastian_3iv7
 	
     Escribir "Ingrese el número de personas para censar: "
     Leer nump
+	
     Dimension nacs[nump]
     Dimension falls[nump]
 	
