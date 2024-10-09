@@ -1,6 +1,4 @@
 Algoritmo par_e_impar_sanchez
-    Definir num Como Entero
-    Definir res Como Caracter
     
     Repetir
         Escribir "Ingrese un número: "
