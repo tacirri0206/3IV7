@@ -1,5 +1,6 @@
 Algoritmo nums100mientras_sanchez
 	Repetir
+		
 		num <- 1
 		Mientras num <= 100 Hacer
 			Escribir num

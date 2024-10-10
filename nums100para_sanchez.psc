@@ -6,6 +6,7 @@ Algoritmo nums100para_sanchez
 		Escribir ""
 		Escribir "Si deseas repetir el programa escribe la letra S y si deseas terminar el prograna escribe N"
 		Leer res
+		
 	Hasta Que res = "N" O res = "n"
 FinAlgoritmo
 	
