@@ -12,8 +12,8 @@ Algoritmo EcuacionSegundoGrado_Sanchez
 			cont <- b^2 - 4*a*c
 			
 			Si cont >= 0 Entonces
-				x1 <- (-b + raiz(cont)) / (2*a)
-				x2 <- (-b - raiz(cont)) / (2*a)
+				x1 <- (-b - raiz(cont)) / (2*a)
+				x2 <- (-b + raiz(cont)) / (2*a)
 				Escribir "Las soluciones son:"
 				Escribir "x1 = ", x1
 				Escribir "x2 = ", x2
