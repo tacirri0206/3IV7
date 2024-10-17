@@ -169,7 +169,4 @@ Algoritmo Calculadora_Figuras
 		De Otro Modo:
 			Escribir 'Opción no válida'
 	FinSegún
-	Repetir
-	
-	Hasta Que condicion
 FinAlgoritmo
