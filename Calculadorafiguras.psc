@@ -49,12 +49,12 @@ Algoritmo Calculadora_Figuras
 	Definir opcion Como Cadena
 	Definir base, altura, l1, l2, l3 Como Real
 	Escribir 'Selecciona una opción: '
-	Escribir 'A área y perímetro del rectángulo'
-	Escribir 'B área y perímetro del pentágono'
-	Escribir 'C área y perímetro del hexagono'
-	Escribir 'D área y perímetro del octagono'
-	Escribir 'E área y perímetro del decagono'
-	Escribir 'F área y perímetro del pentágono'
+	Escribir 'A-área y perímetro del rectángulo'
+	Escribir 'B-área y perímetro del pentágono'
+	Escribir 'C-área y perímetro del hexagono'
+	Escribir 'D-área y perímetro del octagono'
+	Escribir 'E-área y perímetro del decagono'
+	Escribir 'F-área y perímetro del pentágono'
 
 	Leer opcion
 	Según opcion Hacer
