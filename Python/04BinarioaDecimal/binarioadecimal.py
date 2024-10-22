@@ -1,10 +1,14 @@
-def bd(b):
-    dec = 0
-    for p, d in enumerate(reversed(b)):
-        dec += int(d) * (2 ** p)
-    return dec
+def ConvertirDecimal(NumeroBinario):
+    d = 0
+    l = len(NumeroBinario)
+    
+    # Recorrer cada dígito del número binario
+    for i in range(l):
+        # Convertir el dígito en entero y multiplicar por 2^(posición)
+        d += int(NumeroBinario[i]) * (2 ** (l - i - 1))
+    
+    return d
 
-nb = input("Ingrese un número binario: ")
-r = bd(nb)
-print("El numero  en decimal es:", r)
-
+NumeroBinario = input("Introduce un numero binario: ")
+d = ConvertirDecimal(NumeroBinario) 
+print("El número en decimal es:", d)
