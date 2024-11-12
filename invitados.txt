@@ -27,5 +27,4 @@
 27, Sofia Garcia, 5555555555, sofia.garcia@yahoo.com, General, 10, Sin Confirmar, No
 28, Luis Gonzalez, 5555555555, luis.gonzalez@gmail.com, VIP, 9, Sin Confirmar, No
 29, Carlos Garcia, 5555555555, carlos.garcia@hotmail.com, General, 10, Sin Confirmar, No
-30, Ernesto Gonzales, 5555555500, ernesto.gonzales@hotmail.com, General, 9, Confirmado, No
-99, Ernesto Gonzales, 5555555500, ernesto.gonzales@hotmail.com, General, 9, Confirmado, No
+30, Ernesto Gonzales, 5555555555, ernesto.gonzales@hotmail.com, General, 9, Confirmado, No

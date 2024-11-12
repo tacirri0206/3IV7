@@ -80,7 +80,7 @@ class GestionInvitados:
         
         telefono = simpledialog.askstring("Registro", "Teléfono:")
         email = simpledialog.askstring("Registro", "Email:")
-        tipo_invitado = simpledialog.askstring("Registro", "Tipo de invitado (Familiar/Amigo):")
+        tipo_invitado = simpledialog.askstring("Registro", "Tipo de invitado (General/VIP):")
         mesa_asignada = simpledialog.askstring("Registro", "Mesa asignada:")
         confirmacion = simpledialog.askstring("Registro", "Confirmación (Pendiente/Confirmado/Rechazado):")
         menu_especial = simpledialog.askstring("Registro", "Menú especial (Sí/No):")
