@@ -1,0 +1,37 @@
+Algoritmo s2_fin
+	Definir n,a,i,j,aux Como Entero
+	
+	Escribir "Ingrese la cantidad de números a ordenar: "
+	Leer n
+	
+	Dimension a[n]
+	
+	Para i = 1 Hasta n Con Paso 1 Hacer
+		Escribir "Ingrese el número ", i, ": "
+		Leer a[i]
+	FinPara
+	
+	Escribir "Arreglo original: "
+	Para i = 1 Hasta n Con Paso 1 Hacer
+		Escribir Sin Saltar a[i], " "
+	FinPara
+	Escribir " "
+	
+	Para i = 1 Hasta n Con Paso 1 Hacer
+		Para j = 1 Hasta n-1 Con Paso 1 Hacer
+			Si a[j] < a[j+1] Entonces // Cambio aquí para orden descendente
+				aux = a[j]
+				a[j] = a[j+1]
+				a[j+1] = aux
+			FinSi
+		FinPara
+	FinPara
+	
+	Escribir "El arreglo ordenado de mayor a menor es: "
+	Escribir Sin Saltar "-->"
+	Para i = 1 Hasta n Con Paso 1 Hacer
+		Escribir Sin Saltar a[i], "-"
+	FinPara
+	Escribir Sin Saltar "<--"
+	Escribir " "
+FinAlgoritmo

@@ -1,7 +1,7 @@
 def ingresar_matriz():
     dimension = 0
     while dimension != 3 and dimension != 5:
-        dimension = int(input("Ingrese la dimensión de la matriz (3 o 5): "))
+        dimension = int(input("Ingrese la dimensión de la matriz (3x3 o 5x5): "))
         if dimension != 3 and dimension != 5:
             print("Solo se permiten matrices de 3x3 o 5x5")
     

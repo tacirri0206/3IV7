@@ -1,0 +1,31 @@
+1, Miguel Ramirez, 5555555555, miguel.ramirez@gmail.com, General, 4, Confirmado, No
+2, Carlos Ramirez, 5555555555, carlos.ramirez@hotmail.com, General, 4, Confirmado, Sí
+3, Ana Sanchez, 5555555555, ana.sanchez@live.com, VIP, 8, Sin Confirmar, Sí
+4, Maria Rodriguez, 5555555555, maria.rodriguez@live.com, VIP, 8, Sin Confirmar, No
+5, Carlos Ramirez, 5555555555, carlos.ramirez@hotmail.com, VIP, 2, Sin Confirmar, No
+6, Jorge Sanchez, 5555555555, jorge.sanchez@gmail.com, General, 10, Confirmado, No
+7, Lucia Rodriguez, 5555555555, lucia.rodriguez@yahoo.com, General, 10, Confirmado, No
+8, Elena Ramirez, 5555555555, elena.ramirez@hotmail.com, General, 3, Confirmado, Sí
+9, Jorge Perez, 5555555555, jorge.perez@gmail.com, General, 9, Sin Confirmar, Sí
+10, Sofia Garcia, 5555555555, sofia.garcia@live.com, General, 1, Sin Confirmar, No
+11, Carlos Martinez, 5555555555, carlos.martinez@yahoo.com, General, 3, Confirmado, Sí
+12, Elena Martinez, 5555555555, elena.martinez@yahoo.com, VIP, 5, Confirmado, No
+13, Elena Martinez, 5555555555, elena.martinez@live.com, VIP, 6, Confirmado, Sí
+14, Elena Hernandez, 5555555555, elena.hernandez@live.com, VIP, 3, Confirmado, No
+15, Miguel Hernandez, 5555555555, miguel.hernandez@hotmail.com, VIP, 3, Sin Confirmar, Sí
+16, Miguel Ramirez, 5555555555, miguel.ramirez@gmail.com, General, 3, Confirmado, No
+17, Maria Hernandez, 5555555555, maria.hernandez@live.com, General, 3, Confirmado, No
+18, Maria Lopez, 5555555555, maria.lopez@yahoo.com, VIP, 3, Sin Confirmar, No
+19, Ana Martinez, 5555555555, ana.martinez@hotmail.com, VIP, 2, Sin Confirmar, No
+20, Lucia Torres, 5555555555, lucia.torres@live.com, General, 9, Confirmado, No
+21, Maria Gonzalez, 5555555555, maria.gonzalez@yahoo.com, General, 1, Sin Confirmar, No
+22, Maria Perez, 5555555555, maria.perez@live.com, VIP, 8, Sin Confirmar, Sí
+23, Maria Sanchez, 5555555555, maria.sanchez@gmail.com, VIP, 3, Sin Confirmar, No
+24, Miguel Sanchez, 5555555555, miguel.sanchez@gmail.com, General, 1, Sin Confirmar, No
+25, Sofia Lopez, 5555555555, sofia.lopez@live.com, General, 9, Sin Confirmar, No
+26, Carlos Lopez, 5555555555, carlos.lopez@yahoo.com, VIP, 5, Sin Confirmar, No
+27, Sofia Garcia, 5555555555, sofia.garcia@yahoo.com, General, 10, Sin Confirmar, No
+28, Luis Gonzalez, 5555555555, luis.gonzalez@gmail.com, VIP, 9, Sin Confirmar, No
+29, Carlos Garcia, 5555555555, carlos.garcia@hotmail.com, General, 10, Sin Confirmar, No
+30, Ernesto Gonzales, 5555555500, ernesto.gonzales@hotmail.com, General, 9, Confirmado, No
+99, Ernesto Gonzales, 5555555500, ernesto.gonzales@hotmail.com, General, 9, Confirmado, No
