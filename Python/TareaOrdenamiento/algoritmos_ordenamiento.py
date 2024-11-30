@@ -74,3 +74,4 @@ def ordenar_lista(lista, metodo):
     fin = time.time()
     tiempo_ordenamiento = (fin - inicio) * 1000
     return lista_ordenada, tiempo_ordenamiento
+

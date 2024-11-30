@@ -62,7 +62,6 @@ class AplicacionOrdenamiento:
         lista_original = self.lista_numeros.copy()
         lista_ordenada, tiempo_ordenamiento = ordenar_lista(self.lista_numeros, metodo)
         
-        # Obtener el nombre del método de ordenamiento
         nombre_metodo = {
             burbuja: "Burbuja",
             seleccion_sort: "Selección",
